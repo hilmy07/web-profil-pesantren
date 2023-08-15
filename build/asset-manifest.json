@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7bfda0fd.css",
+    "main.js": "/static/js/main.206c2ab2.js",
+    "static/js/787.32d91862.chunk.js": "/static/js/787.32d91862.chunk.js",
+    "static/media/kegiatan3-harisantrinas.jpg": "/static/media/kegiatan3-harisantrinas.14fd4ad08afa4aee5026.jpg",
+    "static/media/hero3.jpg": "/static/media/hero3.268bdfbdc55383d8c126.jpg",
+    "static/media/hero2.jpg": "/static/media/hero2.6c941066f16130b8cdfe.jpg",
+    "static/media/kegiatan4-halalbihalal.jpg": "/static/media/kegiatan4-halalbihalal.4af680f85032ec3fe191.jpg",
+    "static/media/kegiatan1-kurban.jpg": "/static/media/kegiatan1-kurban.9e8025df6457c1b5a18d.jpg",
+    "static/media/berita2-haul.jpg": "/static/media/berita2-haul.29be1bf510e7320ace55.jpg",
+    "static/media/hero1.jpg": "/static/media/hero1.1463f5c02be97d70c363.jpg",
+    "static/media/kegiatan2-bukapuasasunnah.jpg": "/static/media/kegiatan2-bukapuasasunnah.3d22a96930db39d56426.jpg",
+    "static/media/berita1-pembukaanmajelisblnanahadbrsmHbbYahya.jpg": "/static/media/berita1-pembukaanmajelisblnanahadbrsmHbbYahya.e68f3249d984ed54639f.jpg",
+    "static/media/berita3-takbirkelilingidadha.jpg": "/static/media/berita3-takbirkelilingidadha.4237683bbe4b7e22447b.jpg",
+    "static/media/logo.png": "/static/media/logo.0be2bf332fc386d894a0.png",
+    "index.html": "/index.html",
+    "main.7bfda0fd.css.map": "/static/css/main.7bfda0fd.css.map",
+    "main.206c2ab2.js.map": "/static/js/main.206c2ab2.js.map",
+    "787.32d91862.chunk.js.map": "/static/js/787.32d91862.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bfda0fd.css",
+    "static/js/main.206c2ab2.js"
+  ]
+}
